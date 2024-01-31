@@ -84,7 +84,7 @@ footer {
 }
 
 .title{
-  animation: bounceIn 1.4s;
+  animation: bounceIn 1.1s;
 }
 
 @keyframes bounceIn {
